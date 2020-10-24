@@ -37,7 +37,4 @@
 <br />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iFeddy&layout=compact&hide_border=true&count_private=true&theme=vue"/>
-
-<br />
-
 <img align="center" alt="iFeddy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iFeddy&show_icons=true&hide_border=true&theme=vue" />
