@@ -2,7 +2,7 @@
 
 ## Soy Desarrollador Full-Stack en Argentina
 - 🔭 Desarrollando Ideas en [Latirus](https://www.latirus.com/)!
-~~- 🌱 Estoy aprendiendo React/React-Native~~
+- ~~🌱 Estoy aprendiendo React/React-Native~~
 - 🌱 Estoy aprendiendo Dart/Flutter
 - ⚡ Programador Freenlancer
 
