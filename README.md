@@ -1,9 +1,9 @@
-<p align="center">
-  <a href="https://www.latirus.com"><img src='https://github.com/iFeddy/iFeddy/raw/master/svg/web.svg?sanitize=true' alt="Latirus" title="Latirus" height='70'/></a>
-  <a href="https://www.latirus.com/blog"><img src='https://github.com/iFeddy/iFeddy/raw/master/svg/blog.svg?sanitize=true' alt="Blog" title="Blog" height='70'/></a>
-  <a href="https://www.latirus.com/portfolio"><img src='https://github.com/iFeddy/iFeddy/raw/master/svg/promotion.svg?sanitize=true' alt="Portfolio" title="Portfolio" height='70'/></a>  
-    <a href="https://www.latirus.com/contacto"><img src='https://github.com/iFeddy/iFeddy/raw/master/svg/email.svg?sanitize=true' alt="Contacto" title="Contacto" height='70'/></a>  
-  <a href="https://paypal.me/feddyperez"><img src='https://github.com/iFeddy/iFeddy/raw/master/svg/love.svg?sanitize=true' alt="Sponsor" title="Sponsor" height='70'/></a>
+<p align="center" style="padding:1rem;">
+  <a href="https://www.latirus.com"><img src='https://github.com/iFeddy/iFeddy/raw/master/svg/web.svg?sanitize=true' alt="Latirus" title="Latirus" height='50' style="margin-left:2rem;"/></a>
+  <a href="https://www.latirus.com/blog"><img src='https://github.com/iFeddy/iFeddy/raw/master/svg/blog.svg?sanitize=true' alt="Blog" title="Blog" height='50' style="margin-left:2rem;"/></a>
+  <a href="https://www.latirus.com/portfolio"><img src='https://github.com/iFeddy/iFeddy/raw/master/svg/promotion.svg?sanitize=true' alt="Portfolio" title="Portfolio" height='50' style="margin-left:2rem;"/></a>  
+    <a href="https://www.latirus.com/contacto"><img src='https://github.com/iFeddy/iFeddy/raw/master/svg/email.svg?sanitize=true' alt="Contacto" title="Contacto" height='50' style="margin-left:2rem;"/></a>  
+  <a href="https://paypal.me/feddyperez"><img src='https://github.com/iFeddy/iFeddy/raw/master/svg/love.svg?sanitize=true' alt="Sponsor" title="Sponsor" height='50' style="margin-left:2rem;"/></a>
 </p>
 
 ### Hola, mi nombre es Federico 👋
