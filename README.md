@@ -1,5 +1,12 @@
 ### Hola, mi nombre es Federico 👋
 
+<p align="center">
+  <a href="https://www.latirus.com"><img src='https://github.com/antfu/antfu/raw/master/me.svg?sanitize=true' alt="Latirus" title="Latirus" height='70'/></a>
+  <a href="https://www.latirus.com/blog"><img src='https://github.com/antfu/antfu/raw/master/blog.svg?sanitize=true' alt="Blog" title="Blog" height='70'/></a>
+  <a href="https://www.latirus.com/portfolio"><img src='https://github.com/antfu/antfu/raw/master/projects.svg?sanitize=true' alt="Portfolio" title="Portfolio" height='70'/></a>  
+  <a href="https://paypal.me/feddyperez"><img src='https://github.com/antfu/antfu/raw/master/sponsor.svg?sanitize=true' alt="Sponsor" title="Sponsor" height='70'/></a>
+</p>
+
 ## Soy Desarrollador Full-Stack en Argentina
 - 🔭 Desarrollando Ideas en [Latirus](https://www.latirus.com/)!
 - 🌱 Estoy aprendiendo React/React-Native
